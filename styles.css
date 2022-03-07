@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.subheading {
+    color: green;
+}
+
+#content {
+    text-decoration: underline;
+}
+
+.my-list {
+    list-style: square;
+}
